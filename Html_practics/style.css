@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* background-image: url(https://lh3.googleusercontent.com/p/AF1QipPJ3gkPpwvje13A5gPK7N2W1xrGnRsSSGqgbZwT=s1360-w1360-h1020); */
+
+    
+    background-color: white;
+}
+#header{
+    width: 100%;
+    height: 27vh;
+/*     
+    border:solid 1px black; */
+} 
+.logoimg img {
+    /* margin-left: 12px; */
+    width: 100%;
+    height: 27vh;
+    background-size: cover;
+    padding: 25px 10%;
+    align-content: center;
+    box-sizing: border-box;
+
+}
+.medium_nav{
+    /* border: solid 1px green; */
+    color:rgb(7, 7, 131,);
+    height: 18vh;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.main_line{
+    font-size: 4.2vw
+}
+.paira{
+    font-size: 3.7vw;
+}
+.container{
+    margin-top: 40px;
+height:79vh ;
+width:60vw ;
+
+align-content: center;
+margin-left: 18%;
+align-items: center;
+background-color: smoke;
+
+}
+
+label{
+    margin-top: 10px;
+}
+
+.box{
+    padding: 8px;
+    width: 70%;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+    
+    
+}
+.botton{
+    height: 35px;
+    width: 80px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 45%;
+    background-color: rgb(211, 208, 208);
+}
+.botton:hover{
+    background-color:rgb(63, 189, 63);
+}
+.text{
+    display: inline-block;
+    margin-left: 1%;
+    font-size: 20px;
+    font-weight: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+
+table{
+    /* border: solid 1px red; */
+    width: 100%;
+    height: 100%;
+    background-color: smoke;
+}
+
+
